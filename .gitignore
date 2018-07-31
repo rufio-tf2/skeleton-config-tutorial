@@ -1,0 +1,36 @@
+//  My settings
+key_bindings.cfg
+jump.cfg
+practice.cfg
+settings.cfg
+
+//  cfg/modules
+class_switch.cfg
+loadout_switch.cfg
+silly.cfg
+weapon_slot_settings.cfg
+key_modifiers.cfg
+key_modifiers/
+
+//  cfg/classes
+
+sound/
+
+//  Defaults
+360controller*
+chapter*
+config_default.cfg
+config.cfg
+mapcycle*
+motd*
+mtp.cfg
+pure_server*
+replay_example.cfg
+server*
+settings.scr
+sfm*
+sixense*
+sourcevr*
+trusted_keys*
+undo360*
+user.scr
